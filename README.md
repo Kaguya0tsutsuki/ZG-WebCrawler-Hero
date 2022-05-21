@@ -6,4 +6,4 @@
 ## Executar o Programa
 - Ir em app/src/main/groovy/tiss e executar a pasta Main
 
-OBS: Utilizei HttpBuild, Jsoup e opencsv."# ZG-WebCrawler-Hero" 
+OBS: Utilizei HttpBuild, Jsoup e opencsv.
